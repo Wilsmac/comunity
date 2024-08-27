@@ -156,9 +156,6 @@
                                                  {
                                                      "binding_name": "#form_button_text",
                                                      "binding_type": "collection",
-// {
-//     "namespace": "server_form",
-    
 
 //     "long_form": {
                                                      "binding_collection_name": "form_buttons"
